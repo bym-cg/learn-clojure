@@ -1,0 +1,8 @@
+{:full-name "kit/demo-kit"
+ :ns-name   "kit.demo-kit"
+ :sanitized "kit/demo_kit"
+ :name      "demo-kit"
+ :modules   {:root         "modules"
+             :repositories [{:url  "https://github.com/kit-clj/modules.git"
+                             :tag  "master"
+                             :name "kit-modules"}]}}

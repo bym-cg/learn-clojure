@@ -1,0 +1,20 @@
+* Creating Templates for web applications with hiccup
+[[https://github.com/yokolet/hiccup-samples] Hiccup Samples]
+* HTMX by clj-training
+https://github.com/sandre1/clj-training
+* Learn Datomic Course #+begin_
+https://github.com/jacekschae/learn-datomic-course-files
+* LearnReitit.com
+https://github.com/jacekschae/learn-reitit-course-files
+
+* Lear cljs and re-frame
+https://github.com/jacekschae/learn-re-frame-course-files
+
+* Learn reagent
+https://github.com/jacekschae/learn-reagent-course-files
+* Real World application with cljs and reframe by jacekschae
+https://github.com/jacekschae/conduit
+* RealWorld Example App with datalevin
+https://github.com/learnuidev/clojure-realworld-immutable-stack-app
+* kit examples
+https://github.com/kit-clj/kit-examples
